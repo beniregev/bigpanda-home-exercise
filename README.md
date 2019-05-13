@@ -1,4 +1,4 @@
-# BigPanda Home Exercise for Backend Position
+# BigPanda Home Exercise for Backend Developer Position
 
 ## Purpose: 
 Implement a Non Blocking Producer/Consumer stream processing service that exposes an HTTP api.
